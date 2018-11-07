@@ -19,6 +19,7 @@ public class CurrencyActivity extends AppCompatActivity implements CurrencyContr
         mPresenter.bind(this);
 
         mPresenter.getCurrency();
+
     }
 
     @Override
