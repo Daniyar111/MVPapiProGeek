@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestMVP</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="get">GET</string>
+    <string name="currency">currency</string>
+</resources>
